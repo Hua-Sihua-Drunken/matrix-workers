@@ -4,7 +4,7 @@
   "main": "src/index.ts",
   "compatibility_date": "2024-11-01",
   "compatibility_flags": ["nodejs_compat"],
-  "account_id": "${CLOUDFLARE_ACCOUNT_ID}",
+  "account_id": "8dae7b6f0daf1b6febaea1678c7f84bb",
 
   "observability": {
     "enabled": true
